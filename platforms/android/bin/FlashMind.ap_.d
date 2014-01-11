@@ -1,0 +1,25 @@
+/Users/matthewhowell/Documents/PROJECTS/flashmind/platforms/android/bin/FlashMind.ap_ \
+ : /Users/matthewhowell/Documents/PROJECTS/flashmind/platforms/android/res/drawable/icon.png \
+/Users/matthewhowell/Documents/PROJECTS/flashmind/platforms/android/res/drawable-hdpi/icon.png \
+/Users/matthewhowell/Documents/PROJECTS/flashmind/platforms/android/res/drawable-ldpi/icon.png \
+/Users/matthewhowell/Documents/PROJECTS/flashmind/platforms/android/res/drawable-mdpi/icon.png \
+/Users/matthewhowell/Documents/PROJECTS/flashmind/platforms/android/res/drawable-xhdpi/icon.png \
+/Users/matthewhowell/Documents/PROJECTS/flashmind/platforms/android/res/values/strings.xml \
+/Users/matthewhowell/Documents/PROJECTS/flashmind/platforms/android/res/xml/config.xml \
+/Users/matthewhowell/Documents/PROJECTS/flashmind/platforms/android/bin/res/drawable/icon.png \
+/Users/matthewhowell/Documents/PROJECTS/flashmind/platforms/android/bin/res/drawable-hdpi/icon.png \
+/Users/matthewhowell/Documents/PROJECTS/flashmind/platforms/android/bin/res/drawable-ldpi/icon.png \
+/Users/matthewhowell/Documents/PROJECTS/flashmind/platforms/android/bin/res/drawable-mdpi/icon.png \
+/Users/matthewhowell/Documents/PROJECTS/flashmind/platforms/android/bin/res/drawable-xhdpi/icon.png \
+/Users/matthewhowell/Documents/PROJECTS/flashmind/platforms/android/assets/www \
+/Users/matthewhowell/Documents/PROJECTS/flashmind/platforms/android/assets/www/config.xml \
+/Users/matthewhowell/Documents/PROJECTS/flashmind/platforms/android/assets/www/cordova.js \
+/Users/matthewhowell/Documents/PROJECTS/flashmind/platforms/android/assets/www/cordova_plugins.js \
+/Users/matthewhowell/Documents/PROJECTS/flashmind/platforms/android/assets/www/css \
+/Users/matthewhowell/Documents/PROJECTS/flashmind/platforms/android/assets/www/img \
+/Users/matthewhowell/Documents/PROJECTS/flashmind/platforms/android/assets/www/index.html \
+/Users/matthewhowell/Documents/PROJECTS/flashmind/platforms/android/assets/www/js \
+/Users/matthewhowell/Documents/PROJECTS/flashmind/platforms/android/assets/www/css/index.css \
+/Users/matthewhowell/Documents/PROJECTS/flashmind/platforms/android/assets/www/img/logo.png \
+/Users/matthewhowell/Documents/PROJECTS/flashmind/platforms/android/assets/www/js/index.js \
+/Users/matthewhowell/Documents/PROJECTS/flashmind/platforms/android/bin/AndroidManifest.xml \
