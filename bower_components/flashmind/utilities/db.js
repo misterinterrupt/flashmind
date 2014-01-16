@@ -39,5 +39,5 @@ request.onupgradeneeded = function(event) {
   objectStore.createIndex("hint", "hint", {unique: true});
 };
 
-FlashMind.namespace("FlashMind.utilities.DB")
-FlashMind.utilities.DB = db,
+FlashMind.namespace("FlashMind.utilities.DB");
+FlashMind.utilities.DB = db;
