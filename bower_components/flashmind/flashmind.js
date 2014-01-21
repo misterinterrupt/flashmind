@@ -19,18 +19,11 @@
 
 var FlashMind = FlashMind || {};
 
-FlashMind.initDB = function() {
-  FlashMind.utilities.
-},
-
 // Application Constructor
 FlashMind.initialize = function() {
     this.bindEvents();
-    // set up localstorage 
-    flashcards = localstorage.getItem("flashcards");
-    if(flashcards === null) {
-      localstorage.setItem("flashcards", )
-    }
+    // db should be initialized with no data
+    // TODO:: bind UI to the db actions
 };
 
 // Bind Event Listeners
@@ -48,7 +41,7 @@ FlashMind.bindEvents = function() {
 // function, we must explicity call 'app.receivedEvent(...);'
 FlashMind.onDeviceReady = function() {
   
-    app.receivedEvent('deviceready');
+    FlashMind.receivedEvent('deviceready');
     // next thing to do: function to hydrate a view from a model
 },
 // Update DOM on a Received Event

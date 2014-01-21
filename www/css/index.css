@@ -113,3 +113,14 @@ h1 {
     animation:fade 3000ms infinite;
     -webkit-animation:fade 3000ms infinite;
 }
+
+
+/*************
+Main App UI
+*************?
+
+label [id$='_title'] {
+    display: block;
+}
+
+
