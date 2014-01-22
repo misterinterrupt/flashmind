@@ -1,10 +1,10 @@
 FlashMind.namespace = function (ns_string) {
   var parts = ns_string.split('.'),
-                  parent = MYAPP,
+                  parent = FlashMind,
                   i;
 
   // strip redundant leading global
-  if (parts[0] === "MYAPP") {
+  if (parts[0] === "FlashMind") {
           parts = parts.slice(1);
   }
 

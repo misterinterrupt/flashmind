@@ -12,13 +12,14 @@ if (!window.indexedDB) {
     window.alert("Your browser doesn't support a stable version of IndexedDB. Such and such feature will not be available.");
 }
 
-var db;
+var db = {};
 
 // Request that a database be opened
 var request = window.indexedDB.open("flashmind");
 
 request.onerror = function(event) {
   // Do something with request.errorCode!
+  console.log(event);
 };
 request.onsuccess = function(event) {
   // Do something with request.result!
